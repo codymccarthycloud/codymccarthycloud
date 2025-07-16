@@ -1,9 +1,9 @@
 # Hi, I'm Cody McCarthy — Aspiring Cloud Administrator 
 
 ## What I'm Working On
-- Hands-on cloud labs using [Digital Cloud Training](https://digitalcloud.training/hands-on-challenge-labs/)
+- Hands-on Azure cloud labs using [A Cloud Guru](https://www.pluralsight.com/cloud-guru/individuals)
 - Security operations and incident response labs via [TryHackMe](https://tryhackme.com/)
-- Studying for CompTIA A+, Project+, Network+, Security+, and Cloud+ certifications
+- Studying for CompTIA A+, Project+, Network+, Security+, and Cloud+ and more certifications
 
 ## Projects
 ## Security Operations & Incident Response Labs (TryHackMe)
