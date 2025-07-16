@@ -6,7 +6,7 @@
 - Studying for CompTIA A+, Project+, Network+, Security+, and Cloud+ and more certifications
 
 ## Projects
-## Security Operations & Incident Response Labs (TryHackMe)
+## 328 Azure Labs using A Cloud Guru
 
 Completed entry-level foundation modules focused on real-world cybersecurity workflows.
 
