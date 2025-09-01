@@ -1,8 +1,9 @@
-# Hi, I'm Cody McCarthy — Aspiring Cloud Administrator 
+# Hi, I'm Cody McCarthy — Cloud Administrator 
 
 ## What I'm Working On
+- Completed 100 hands-on Azure labs
 - Hands-on Azure cloud labs using pluralsight [A Cloud Guru](https://www.pluralsight.com/cloud-guru/individuals)
-- Security operations and incident response labs via [TryHackMe](https://tryhackme.com/)
+- Fundamental security operations and incident response labs via [TryHackMe](https://tryhackme.com/)
 - Studying for CompTIA A+, Project+, Network+, Security+, and Cloud+, Azure and more certifications
 
 ## Projects
@@ -17,7 +18,7 @@ Completed entry-level foundation modules focused on real-world cybersecurity wor
 
 ### Tools Explored
 - Wireshark
-- Linux command-line utilities (e.g. grep, cat, less)
+- PC and Linux command-line utilities (e.g. grep, cat, less)
 - System log analysis (e.g. /var/log/auth.log)
 
 ### Lab Highlights
@@ -30,7 +31,7 @@ Completed entry-level foundation modules focused on real-world cybersecurity wor
 ### Cloud Admin Lab (Digital Cloud Training)
 - VM provisioning and container deployment
 - IAM role configuration and firewall setup
-- Tools: AWS Console, Terraform, Docker
+- Tools: Terraform, Devops, Kubernetes, Docker
 
 ### Incident Response Playbook
 - Entry-level IR workflow for small teams
